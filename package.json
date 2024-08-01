@@ -1,0 +1,16 @@
+{
+  "name": "hapijs-practice",
+  "version": "1.0.0",
+  "main": "index.cjs",
+  "scripts": {
+    "start": "node index.cjs",
+    "dev": "node --watch index.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.10"
+  }
+}
